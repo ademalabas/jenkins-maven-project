@@ -25,9 +25,11 @@
         <configuration>
           <archive>
             <manifest>
+
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
               <mainClass>call.hello.App</mainClass>
+              
             </manifest>
           </archive>
         </configuration>
